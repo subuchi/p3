@@ -1,0 +1,9 @@
+ext {
+    moduleLibraryName = "zyCheatsPG3D"
+    magiskModuleId = "zyCheatsPG3D"
+    moduleName = "Pixel Gun 3D Mod Menu - ZyCheats "
+    moduleAuthor = "BUCCI"
+    moduleDescription = "Mod Menu for PG3D 23.5.2"
+    moduleVersion = "v1 (23.5.2)"
+    moduleVersionCode = 1
+}
