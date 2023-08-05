@@ -13,7 +13,7 @@ jobs:
         java-version: 11
         cache: gradle
     - run: |
-        chmod +x ./gradlew
+        chmod +u ./gradlew
         ./gradlew :module:assembleRelease
     - uses: actions/upload-artifact@v3
       with:
